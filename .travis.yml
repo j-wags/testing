@@ -8,6 +8,6 @@ branches:
   only:
   - master
   - /.*0-branch$/
-  
+  - /.*patch-1$/
 install:
   - ls
